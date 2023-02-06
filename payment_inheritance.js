@@ -1,4 +1,5 @@
 
+
 class paymentDetails {
     
     constructor (bankName,cardNumber,cvv,upi,pin) {
@@ -72,6 +73,30 @@ console.log(netBankingStatusObj.verification())
 // let upiObj = new upi("Axis Bank",123456,987,"akash.ax.com",1111)
 // let result = upiObj.upiValidation("akash.ax.com")
 // console.log(result)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
